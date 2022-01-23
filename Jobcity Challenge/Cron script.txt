@@ -1,0 +1,2 @@
+# this will run at 18.30 everyday
+30     18     *     *     *  /path/to/python/ingest.py
