@@ -1,6 +1,6 @@
 Jobcity Project
 
-Instructions:
+Requests:
 
 - Trips with similar origin, destination, and time of day should be grouped together. (df_grouped)
 - Develop a way to obtain the weekly average number of trips for an area, defined by a bounding box (given by coordinates) or by a region. (df_grouped_2)
