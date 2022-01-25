@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+#Installing libraries
+
+#!pip install pandas
+#!pip installa numpy
+#!pip instal sqlalchemy
+
+
 # Importing libraries
 from datetime import datetime,timedelta
 import pandas as pd
