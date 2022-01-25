@@ -15,3 +15,11 @@ Assumptions:
 - In case the file is inserted in the server generating duplicates. It would be solve in a different solution
 - The used path for the "analyze_folder" and the direction fro the SQL Server are using local references just for the purpouse of this exercise.
 - The way used to schedule this process is through crontab. Include in this github you will find the code to use in crontab.
+- The SQL connection access is granted for the users.
+
+Instructions:
+- Deposit the file in a folder.
+- Change the "analyze path" for the path where you deposited the folder.
+- Change the SERVER and DATABASE in the conn variable.
+- Be sure to have access to a SQL server.
+- Run the code (Install libraries if necesary)
